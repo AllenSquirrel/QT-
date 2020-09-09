@@ -1,0 +1,22 @@
+QMAKE_CXX.INCDIRS = \
+    C:/Strawberry/c/lib/gcc/i686-w64-mingw32/4.9.2/include \
+    C:/Strawberry/c/include \
+    C:/Strawberry/c/lib/gcc/i686-w64-mingw32/4.9.2/include-fixed \
+    C:/Strawberry/c/i686-w64-mingw32/include \
+    C:/Strawberry/c/i686-w64-mingw32/include/c++ \
+    C:/Strawberry/c/i686-w64-mingw32/include/c++/i686-w64-mingw32 \
+    C:/Strawberry/c/i686-w64-mingw32/include/c++/backward
+QMAKE_CXX.LIBDIRS = \
+    C:/Strawberry/c/lib/gcc/i686-w64-mingw32/4.9.2 \
+    C:/Strawberry/c/lib/gcc \
+    C:/Strawberry/c/i686-w64-mingw32/lib \
+    C:/Strawberry/c/lib
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_GCC_MAJOR_VERSION = 4
+QMAKE_CXX.QMAKE_GCC_MINOR_VERSION = 9
+QMAKE_CXX.QMAKE_GCC_PATCH_VERSION = 2
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_GCC_MAJOR_VERSION \
+    QMAKE_GCC_MINOR_VERSION \
+    QMAKE_GCC_PATCH_VERSION
